@@ -20,12 +20,12 @@ python simulation-bust-wahrscheinlichkeit-dealer.py -n 100000 --seed 1 --diagram
 
 ---
 
-## 2. `dealer_simulation.py`
+## 2. `endverteilung-dealer.py`
 
 **Start:**
 
 ```bash
-python dealer_simulation.py -n 2000000 --seed 42 --csv dealer_ergebnisse_2mio.csv
+python endverteilung-dealer.py -n 2000000 --seed 42 --csv dealer_ergebnisse_2mio.csv
 ```
 
 **Prompt:**
