@@ -30,4 +30,4 @@ python dealer_simulation.py -n 2000000 --seed 42 --csv dealer_ergebnisse_2mio.cs
 
 **Prompt:**
 
-> *[Prompt hier einfügen]*
+> *ch brauche für meine Blackjack-Seminararbeit ein Programm, das mir die Endverteilung des Dealers zwischen 17 und 21 in Abhängigkeit seiner Startkarte sowie die Überkaufwahrscheinlichkeit liefert, simuliert mit 2.000.000 Durchläufen. Ich brauche die Möglichkeit, einen seed anzugeben, um Reproduzierbarkeit zu gewährleisten und eine Exportmöglichkeit.*
