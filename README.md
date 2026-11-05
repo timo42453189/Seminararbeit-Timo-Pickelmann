@@ -16,7 +16,7 @@ python simulation-bust-wahrscheinlichkeit-dealer.py -n 100000 --seed 1 --diagram
 
 **Prompt:**
 
-> *[Prompt hier einfügen]*
+> *Für meine Blackjack-Seminararbeit möchte ich eine Tabelle zur Überkaufwahrscheinlichkeit des Dealers in Abhängigkeit seiner offenen Karte erstellen. Da die Rechnung sehr aufwendig ist, möchte ich nur ein Beispiel per Hand rechnen und den Rest simulieren lassen. Erstelle mir dazu eine Python-Simulation, die sowohl die Zwischenwerte B(t) als auch die Überkaufwahrscheinlichkeiten für jede offene Startkarte (2 bis Ass) berechnet und im Terminal ausgibt. Die Ergebnisse sollen außerdem als Diagramm dargestellt werden, damit ich sie anschaulich in meine Word-Datei einbinden kann.*
 
 ---
 
@@ -30,4 +30,4 @@ python dealer_simulation.py -n 2000000 --seed 42 --csv dealer_ergebnisse_2mio.cs
 
 **Prompt:**
 
-> *[Prompt hier einfügen]*
+> *Ich brauche für meine Blackjack-Seminararbeit ein Programm, das mir die Endverteilung des Dealers zwischen 17 und 21 in Abhängigkeit seiner Startkarte sowie die Überkaufwahrscheinlichkeit liefert, simuliert mit 2.000.000 Durchläufen. Ich brauche die Möglichkeit, einen seed anzugeben, um Reproduzierbarkeit zu gewährleisten und eine Exportmöglichkeit.*
