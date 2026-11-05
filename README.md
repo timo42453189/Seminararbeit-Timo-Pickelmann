@@ -16,7 +16,7 @@ python simulation-bust-wahrscheinlichkeit-dealer.py -n 100000 --seed 1 --diagram
 
 **Prompt:**
 
-> *Für meine Blackjack-Seminararbeit möchte ich eine Tabelle zur Überkaufwahrscheinlichkeit des Dealers in Abhängigkeit seiner offenen Karte erstellen. Da die Rechnung sehr aufwendig ist, möchte ich nur ein Beispiel per Hand rechnen und den Rest simulieren lassen. Erstelle mir dazu eine Python-Simulation, die sowohl die Zwischenwerte B(t) als auch die Überkaufwahrscheinlichkeiten für jede offene Startkarte (2 bis Ass) berechnet und im Terminal ausgibt. Die Ergebnisse sollen außerdem als Diagramm dargestellt werden, damit ich sie anschaulich in meine Word-Datei einbinden kann.*
+> *Für meine Blackjack-Seminararbeit möchte ich eine Tabelle zur Überkaufwahrscheinlichkeit des Dealers in Abhängigkeit seiner offenen Karte erstellen. Da die Rechnung sehr aufwendig ist, möchte ich nur ein Beispiel per Hand rechnen und den Rest simulieren lassen. Ich verwende zur Berechnung ein rekursives Verfahren und definiere dabei B(t) mit t als harte Punktesumme des Spielers. Erstelle mir dazu eine Python-Simulation, die sowohl die Zwischenwerte B(t) als auch die Überkaufwahrscheinlichkeiten für jede offene Startkarte (2 bis Ass) berechnet und im Terminal ausgibt. Die Ergebnisse sollen außerdem als Diagramm dargestellt werden, damit ich sie anschaulich in meine Word-Datei einbinden kann.*
 
 ---
 
