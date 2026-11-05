@@ -14,7 +14,6 @@ Dieses Repository enthält die beiden Python-Programme, mit denen die simulierte
 | `simulation-bust-wahrscheinlichkeit-dealer.py` | Überkaufwahrscheinlichkeit des Dealers je offener Karte sowie Zwischenwerte B(12) … B(16); erzeugt das Säulendiagramm | Kapitel 5, Abbildung 1 |
 | `dealer_simulation.py` | Vollständige Endverteilung des Dealers (17, 18, 19, 20, 21, Bust) je offener Karte; Export als CSV | Kapitel 6.2 (Erwartungswerte bei harter 16 gegen 10), Tabelle im Anhang |
 | `dealer_ergebnisse_2mio.csv` | Ergebnisse von `dealer_simulation.py` mit den Einstellungen der Arbeit | Anhang |
-| `abbildung1_bust_dealer.png` | Diagramm aus `simulation-bust-wahrscheinlichkeit-dealer.py` | Abbildung 1 |
 | `requirements.txt` | Benötigte Zusatzbibliothek (nur für das Diagramm) | – |
 
 ---
